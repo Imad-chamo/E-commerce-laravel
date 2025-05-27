@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+.env
+.env.backup
+/storage/*.key
+/public/storage
+.idea
+.DS_Store
+*.log
+npm-debug.log
+
